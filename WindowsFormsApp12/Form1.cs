@@ -172,7 +172,7 @@ namespace WindowsFormsApp12
             }
             if (asdf == Keys.Right && newArrow == Keys.Left)
             {
-                newArrow = Keys.Left;
+                newArrow = Keys.Right;
             }
             if (newArrow == Keys.Up)
             {
